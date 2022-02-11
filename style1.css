@@ -1,0 +1,18 @@
+body{
+    font-family: 'Supermercado One', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color:blue;
+}
+.upp{
+    width: 40%;
+    float: left;
+    margin-left:2%;
+    padding-left:2%;
+}
+.upp img{
+    width: 100%;
+}
