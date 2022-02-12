@@ -16,3 +16,50 @@ h1{
 .upp img{
     width: 100%;
 }
+.hire{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, tomato, rgb(109, 60, 223));
+    padding: 5px 10px;
+    font-weight: 700;
+    border-radius: 10px;
+    color:rgb(183, 196, 5);
+
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.up{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat;
+
+}
+.down{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pp{
+    box-shadow: 10px  10px 40px gray;
+    border-radius: 5px;
+    background-color: beige;
+
+}
+.final-section{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#billi{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,red,pink);
+    border-image-slice: 1;
+}
+#kalu{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
